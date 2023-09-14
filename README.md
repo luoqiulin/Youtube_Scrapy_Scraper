@@ -5,11 +5,6 @@ Overview
 ---------
 This repository provides with a web scraper based on the Scrapy framework that is designed to extract public data from YouTube channels communicating with the YouTube Data API.
 
-The present web scraper is part of my thesis with the title of "From digital footprints to facts: mining social data for marketing practices", whose aim was to collect public data from popular Greek Instagram and YouTube profiles and draw conclusions about:
-1. the digital behavior and preferences of the Greek Instagram and YouTube community
-2. the activity of Greek businesses on social media
-3. the impact of COVID-19 on the digital behavior of the users
-
 Requirements
 ------------
 In order to use this web scraper you have to:
